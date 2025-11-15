@@ -57,8 +57,8 @@ JavaScript • TypeScript • Python • Rust • C/C++ • C#
 
 ### 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=igorkolak425&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorkolak425&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=2-rust&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2-rust&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
